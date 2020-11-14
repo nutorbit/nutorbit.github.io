@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Nut Chukamphaeng
+bio: Life long learning
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -14,9 +14,9 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/1SNR6yD2KBqowuHFVasM9VdXJf2MUDYeF/view?usp=sharing
 
-url: https://sergiokopplin.github.io/indigo
+url: https://nutorbit.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,23 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: https://www.facebook.com/nutorbitx
+# twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/nutorbit/
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github.com/nutorbit
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: https://medium.com/@nutorbitx
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: nutorbitx@gmail.com
 
 authors:
   johndoe:
