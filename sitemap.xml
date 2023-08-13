@@ -2,10 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nutorbit.github.io/categories/</loc>
+    <loc>https://nutorbit.github.io/tags/graph-neural-network/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nutorbit.github.io/posts/graph_neural_network/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nutorbit.github.io/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nutorbit.github.io/posts/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nutorbit.github.io/tags/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nutorbit.github.io/categories/</loc>
   </url>
 </urlset>
